@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # everything-training
 
 Train my knowledge on different topics: **PyTorch**, **PINNs**, **Transformers**
@@ -10,3 +11,7 @@ Welcome to my repository for the _"Zero to Mastery: Learn PyTorch for Deep Learn
 This section contains personal notes, code snippets, and exercises from the course.
 
 git push origin main
+=======
+# PyTorch Zero to Mastery Notes and Code
+Welcome to my repository for the "Zero to Mastery Learn PyTorch for Deep Learning" course. This repository contains my personal notes, code snippets, and exercises from the course.
+>>>>>>> 24061c3 (Update README.md)
